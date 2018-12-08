@@ -1,8 +1,8 @@
-# Week 6 - Groceries App
+# Week 7 - Groceries App
 
-## RESTful Services
+## Groceries Server on Heroku
 
-Groceries app should app should do the CRUD operation and have RESTful services for persisting data.
+Groceries app should have its services deployed to Heroku.
 
 Capture the screenshots of each tab or screencast walking through the flow of each tab.
 
